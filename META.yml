@@ -1,0 +1,12 @@
+--- #YAML:1.0
+name: Acme-Incorporated
+version: 0.10
+license: perl
+distribution_type: module
+requires:
+  IO::File: ''
+  Test::Simple: 0.47
+recommends: {}
+build_requires: {}
+conflicts: {}
+generated_by: Module::Build version 0.16

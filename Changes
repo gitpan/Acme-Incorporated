@@ -1,0 +1,9 @@
+Revision history for Perl module Acme::Incorporated
+
+0.10 Fri Jun 20 05:41:30 GMT 2003
+	- renamed to Acme::Incorporated
+
+0.01 Wed Jun 18 21:31:22 2003
+	- original version; created by ExtUtils::ModuleMaker 0.32
+
+

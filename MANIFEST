@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST
+META.yml
+README
+Changes
+lib/Acme/Incorporated.pm
+t/base.t
+t/lib/BreakMe.pm
+Build.PL
+Makefile.PL
